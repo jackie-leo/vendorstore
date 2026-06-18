@@ -1,0 +1,10 @@
+/* Start Viewport desktop */
+#body-content { height:700px; }
+#stripTool_68 { top:0px; left:0px; width:100%; height:700px; z-index:101; }
+body { background-color:transparent; }
+#txtBox_90 { top:189px; left:257px; width:466px; height:80px; z-index:105; }
+#txtBox_91 { top:289px; left:266px; width:446px; height:28px; z-index:106; }
+#divider_92 { top:269px; left:265px; width:450px; height:20px; z-index:107; }
+#btnTool_93 { top:354px; left:390px; width:200px; height:80px; z-index:108; }
+#btnTool_93 .wseT { line-height:80px; }
+/* End Viewport desktop */
